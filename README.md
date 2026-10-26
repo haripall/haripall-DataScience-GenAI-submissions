@@ -11,6 +11,4 @@ This work is released under the MIT License.
 - [Assignment 2 (2.04): Transforms and Concatenation](./Assignment_2/Assignment_2_2_04_Transforms_and_Concatenation_COMPLETED.ipynb)
 - [Seminar 2: EDA Task](./Seminar_tasks/Seminar_2_EDA_task.ipynb)
 
-- [Seminar 2: EDA Task](./Seminar_2_EDA_task.ipynb)
-
 # Thank you for reading. 
